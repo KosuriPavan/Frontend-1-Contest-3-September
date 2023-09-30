@@ -416,13 +416,15 @@ hr {
 
 .Testimonials-Section-img {
     width: 1250px;
-    height: 700px;
-    margin-top: -230px;
+    height: 600px;
 }
 
 .Call-to-Action-Effectiveness-img {
-    width: 1250px;
-    height: 700px;
+    width: 800px;
+    height: 600px;
+    margin-top: 30px;
+    margin-left: 200px;
+    
 }
 
 footer {
@@ -431,7 +433,9 @@ footer {
     top: 4286px;
     background: linear-gradient(284.84deg, #FDF0F3 2.04%, rgba(255, 253, 242, 0.5) 50.97%, #FDEEF3 100.85%);
 }
-
+.social-media>a>img{
+    padding-right: 10px;
+}
 .footer-section {
     align-items: center;
     display: flex;
